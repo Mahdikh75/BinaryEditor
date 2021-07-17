@@ -1,0 +1,31 @@
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.exe
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.pdb
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\ResolveAssemblyReference.cache
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.Properties.Resources.resources
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryFileEditor.csproj.GenerateResource.Cache
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.frmMain.resources
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\ResolveAssemblyReference.cache
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.frmMain.resources
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.Properties.Resources.resources
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.exe
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.pdb
+E:\New Backup\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+G:\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+G:\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+C:\Users\mahdi\Desktop\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+C:\Users\mahdi\Desktop\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+C:\Users\mahdi\Desktop\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+C:\Users\mahdi\Desktop\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.exe
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.exe
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\bin\Release\BinaryEditor.pdb
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryFileEditor.csprojResolveAssemblyReference.cache
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.frmMain.resources
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryEditor.Properties.Resources.resources
+D:\j\program\برنامه نویسی\برنامه نویسی\Visual C#\BinaryEditor\BinaryEditor\obj\Release\BinaryFileEditor.csproj.GenerateResource.Cache

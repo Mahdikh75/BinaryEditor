@@ -1,0 +1,8 @@
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\BinaryEditor.exe
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\BinaryEditor.pdb
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\BinaryEditor.frmMain.resources
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\BinaryEditor.Properties.Resources.resources
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\obj\Debug\BinaryFileEditor.csproj.GenerateResource.Cache
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Debug\BinaryEditor.exe
+E:\MASOUD\Office\Visual Studio 2008\C#\BinaryEditor\BinaryEditor\bin\Debug\BinaryEditor.pdb
